@@ -1,0 +1,30 @@
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\ang_henry_hw5\ang_henry_hw5\bin\Debug\ang_henry_hw5.exe.config
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\ang_henry_hw5\ang_henry_hw5\bin\Debug\ang_henry_hw5.exe
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\ang_henry_hw5\ang_henry_hw5\bin\Debug\ang_henry_hw5.pdb
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.csprojResolveAssemblyReference.cache
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.AboutForm.resources
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.Form1.resources
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.Properties.Resources.resources
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.csproj.GenerateResource.Cache
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.exe
+\\myhome.spu.edu\users\angh\documents\visual studio 2015\Projects\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.pdb
+G:\CSC 3220\ang_henry_hw5\ang_henry_hw5\bin\Debug\ang_henry_hw5.exe.config
+G:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.exe
+G:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.pdb
+G:\CSC 3220\ang_henry_hw5\ang_henry_hw5\bin\Debug\ang_henry_hw5.exe
+G:\CSC 3220\ang_henry_hw5\ang_henry_hw5\bin\Debug\ang_henry_hw5.pdb
+G:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.csprojResolveAssemblyReference.cache
+G:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.AboutForm.resources
+G:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.Form1.resources
+G:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.Properties.Resources.resources
+G:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.csproj.GenerateResource.Cache
+F:\CSC 3220\ang_henry_hw5\ang_henry_hw5\bin\Debug\ang_henry_hw5.exe.config
+F:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.exe
+F:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.pdb
+F:\CSC 3220\ang_henry_hw5\ang_henry_hw5\bin\Debug\ang_henry_hw5.exe
+F:\CSC 3220\ang_henry_hw5\ang_henry_hw5\bin\Debug\ang_henry_hw5.pdb
+F:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.csprojResolveAssemblyReference.cache
+F:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.AboutForm.resources
+F:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.Form1.resources
+F:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.Properties.Resources.resources
+F:\CSC 3220\ang_henry_hw5\ang_henry_hw5\obj\Debug\ang_henry_hw5.csproj.GenerateResource.Cache
